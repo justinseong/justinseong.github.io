@@ -61,11 +61,11 @@ projects:
     intro: >
     assignments:
       - title: keyword_based_password_generator
-        link: "#hook"
+        link: "https://github.com/justinseong/keyword_based_password_generator"
         tagline: "This project is a password generator that reflects user's keyword."
 
       - title: arduino_line_tracer
-        link: "#"
+        link: "https://github.com/justinseong/arduino_line_tracer"
         tagline: "Arduino-based line tracer"
 
 publications:
