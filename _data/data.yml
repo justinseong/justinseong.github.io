@@ -67,6 +67,10 @@ projects:
       - title: arduino_line_tracer
         link: "https://github.com/justinseong/arduino_line_tracer"
         tagline: "Arduino-based line tracer"
+        
+      - title: Computer logic architecture implementation with using Minecraft (2020.11.05.)
+        link: "https://github.com/justinseong/logic_gate_minecraft"
+        tagline: "This report introduces boolean algebra, logical gate, half adder, and full adder. In addition, this report introduces the logic circuit(half adder, full adder, flip-flop) by using various Redstone related inventory items such as Redstone, Redstone Torch, and Redstone Lamp on the Minecraft World Map. That explains how logic circuits work. "
 
 publications:
     title: Publications
