@@ -60,11 +60,11 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: keyword_based_password_generator
+      - title: keyword_based_password_generator (2020.09.03)
         link: "https://github.com/justinseong/keyword_based_password_generator"
         tagline: "This project is a password generator that reflects user's keyword."
 
-      - title: arduino_line_tracer
+      - title: arduino_line_tracer (2020.09.15)
         link: "https://github.com/justinseong/arduino_line_tracer"
         tagline: "Arduino-based line tracer"
 
@@ -76,7 +76,7 @@ projects:
         link: "https://github.com/justinseong/facemask_detection"
         tagline: "This project will help people safe from the virus, COVID-19 it will also help from spreading germs."
 
-      - title: 마스크 착용 유도 미디어아트 (with using Entry)
+      - title: 마스크 착용 유도 미디어아트 (with using Entry) (2020.12.15.)
         link: "http://naver.me/FVUxsk1n"
         tagline: "이 소프트웨어는 Entry를 활용한 마스크 착용 유도 미디어아트로, Entry AI Block의 Video Detection 중 Human(Face) Recognition 기능을 활용하여, 얼굴 감지 시 사용자의 얼굴 위에 랜덤으로 바뀌는 캐릭터가 마스크를 쓰고 있는 모습을 보여준다. (현재 Entry의 AI Model Generator를 활용하여 마스크 착용/미착용을 판단하는 딥러닝 모델을 제작하였으나, 해당 모델을 사용하여 데모를 제작하기 위해서는 아직까지 결과물을 실시간으로 보여줄 수 있는 환경이 아닌, 각각 파일로 하나씩 업로드해서 결과물을 보여줘야 한다는 문제점이 있어, 일반적인 Human(Face) Recognition으로 목표를 바꾸어 소프트웨어를 구현하였다.) "
 
