@@ -1,0 +1,31 @@
+# A .YAML file is used to export DNS records to a
+# domain managed by Google Cloud. The format is
+# exclusive to Google Cloud DNS.
+
+---
+kind: dns#resourceRecordSet
+name: 'snackitofficial.com.'
+rrdatas:
+- '216.239.32.21'
+- '216.239.34.21'
+- '216.239.36.21'
+- '216.239.38.21'
+ttl: 3600
+type: A
+---
+kind: dns#resourceRecordSet
+name: 'snackitofficial.com.'
+rrdatas:
+- '2001:4860:4802:32::15'
+- '2001:4860:4802:34::15'
+- '2001:4860:4802:36::15'
+- '2001:4860:4802:38::15'
+ttl: 3600
+type: AAAA
+---
+kind: dns#resourceRecordSet
+name: 'www.snackitofficial.com.'
+rrdatas:
+- 'ghs.googlehosted.com.'
+ttl: 3600
+type: CNAME
